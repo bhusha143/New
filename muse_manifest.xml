@@ -1,0 +1,46 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="audyemailer.com" resolutions="1x" timestamp="1531144770739">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4024440006" ref="index"/>
+    <file name="nomq_index.css" crc="4011282012" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="header_img.jpg" crc="258511323" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="musicbeat_logo.jpg" crc="4016122353" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="section_img.jpg" crc="353742633" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="content.svg" crc="57007296" ref="index"/>
+    <file name="content_poster_u189.png" crc="370950377" ref="index"/>
+    <file name="intellectual.svg" crc="4263300301" ref="index"/>
+    <file name="intellectual_poster_u197.png" crc="124252762" ref="index"/>
+    <file name="knowledge.svg" crc="280396193" ref="index"/>
+    <file name="knowledge_poster_u205.png" crc="4245009579" ref="index"/>
+    <file name="facebook-logo.svg" crc="121494231" ref="index"/>
+    <file name="facebook-logo_poster_u266.png" crc="3845584677" ref="index"/>
+    <file name="twitter-logo-silhouette.svg" crc="3773516735" ref="index"/>
+    <file name="twitter-logo-silhouette_poster_u283.png" crc="3975342653" ref="index"/>
+    <file name="linkedin-letters.svg" crc="3865559101" ref="index"/>
+    <file name="linkedin-letters_poster_u291.png" crc="192178074" ref="index"/>
+    <file name="header_img-u99-fr.jpg" crc="3983356647" ref="index"/>
+    <file name="musicbeat_logo-u245-fr.jpg" crc="4093986618" ref="index"/>
+    <file name="musicbeat_logo-u259-fr.jpg" crc="3863691883" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3907245340" seo="true" mt="1531144613147" redirect="true"/>
+</manifest>
